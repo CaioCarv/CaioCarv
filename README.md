@@ -4,7 +4,7 @@
 - 📚 Estou cursando ADS e futuramente quero me tornar programador Full-Stack.
 
 
-## Oiii eu sou o Caio Felipe, estudande de analíse de desenvolvimento de sistemas!
+## Oi eu sou o Caio Felipe, estudande de analíse de desenvolvimento de sistemas!
 <div align="center">
   <a href="https://github.com/CaioCarv">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=CaioCarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
