@@ -1,10 +1,10 @@
-- 👋 Olá, eu sou o Caio Felipe!
+##- 👋 Olá, eu sou o Caio Felipe!
 - 👮‍♂️ Estou atualmente na Força Aérea Brasileira.
 - 🎮 Gosto de Jogos.
 - 📚 Estou cursando ADS e futuramente quero me tornar programador Full-Stack.
 
 
-## Oi eu sou o Caio Felipe, estudande de analíse de desenvolvimento de sistemas!
+
 <div align="center">
   <a href="https://github.com/CaioCarv">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=CaioCarv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
