@@ -1,4 +1,4 @@
-##- 👋 Olá, eu sou o Caio Felipe!
+## - 👋 Olá, eu sou o Caio Felipe!
 - 👮‍♂️ Estou atualmente na Força Aérea Brasileira.
 - 🎮 Gosto de Jogos.
 - 📚 Estou cursando ADS e futuramente quero me tornar programador Full-Stack.
