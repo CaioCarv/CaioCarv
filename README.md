@@ -19,6 +19,7 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Caio-MySQL" height="30" width= 40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img align="center" alt="Caio-django" height="30" width= 40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
  
 
 </div>
