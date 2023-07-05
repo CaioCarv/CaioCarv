@@ -1,7 +1,7 @@
 ## - 👋 Olá, eu sou o Caio Felipe!
 - 👮‍♂️ Atualmente estou na Força Aérea Brasileira.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎮 Gosto de Jogos.
-- 📚 Estou cursando ADS.
 
 
 
