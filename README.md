@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, eu me chamo Caio Carvalho</h1>
 <h3 align="center">Desenvolvedor Back-end</h3>
 
-- :police_officer: Ex militar da **Força Aérea Brasileira**
-  
-- :man_student: Graduado em Análise e Desenvolvimento de Sistemas
-  
-- 🌱 no momento estou aprendendo **C#**
-  
-- 💬 Pergunte-me sobre **Python e Django**
+> :police_officer: Ex militar da **Força Aérea Brasileira**
+
+> :man_student: Graduado em Análise e Desenvolvimento de Sistemas
+
+> 🌱 no momento estou aprendendo sobre **DevOps**
+
+> 💬 Pergunte-me sobre **Python e Django**
 
 
 
